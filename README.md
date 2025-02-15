@@ -1,16 +1,17 @@
 # JavaScript Problem Solving.
 
-## My JavaScript solutions for coding problems on Codewars and Leetcode.
+### My solutions for some coding problems on Codewars and Leetcode.
 
-### My profile on codewars.com :
+#### My profile on codewars.com :
 
 https://www.codewars.com/users/mohamedfiky
 
-### My profile on leetcode.com :
+#### My profile on leetcode.com :
 
 https://leetcode.com/u/mohamedFiky
 
 --------------------------------------------------
 
-Each JS file contains a link to the problem, it's discription and of course my solution.
+##### Each JS file contains a link to the problem, it's discription and of course my solution.
+##### Some solutions are smart and some are stupid, I'm more proud of the stupid ones :) .
 
