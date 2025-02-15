@@ -12,6 +12,6 @@ https://leetcode.com/u/mohamedFiky
 
 --------------------------------------------------
 
-##### Each JS file contains a link to the problem, it's discription and of course my solution.
-##### Some solutions are smart and some are stupid, I'm more proud of the stupid ones :) .
+##### -> Each JS file contains a link to the problem, it's discription and of course my solution.
+##### -> Some solutions are smart and some are stupid, I'm more proud of the stupid ones :grimacing: .
 
