@@ -1,5 +1,5 @@
 /*
-    Link: https://leetcode.com/problems/create-hello-world-function/description/
+    Link: https://leetcode.com/problems/create-hello-world-function/
 
     Description:
 

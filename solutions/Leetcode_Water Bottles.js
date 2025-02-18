@@ -1,5 +1,5 @@
 /*
-    Link: https://leetcode.com/problems/water-bottles/description/
+    Link: https://leetcode.com/problems/water-bottles/
 
     Description:
 
