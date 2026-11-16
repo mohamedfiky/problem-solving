@@ -97,10 +97,9 @@
             30 <= t <= 100
             10 <= cancelTimeMs <= 500
 
-
-
-
 */
+
+// Solved with the help of AI
 
 
 var cancellable = function(fn, args, t) {
